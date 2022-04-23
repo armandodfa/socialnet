@@ -1,0 +1,18 @@
+
+.site_header{
+    width: 1100px;
+    height: 220px;
+    border-radius: 25px;
+  }
+  .discription{
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+  }
+  .ava{
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+  }
+  .personInfo{
+    padding: 10px;
+  }
